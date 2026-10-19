@@ -1,4 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/daikikumakura/daikikumakura.r-universe.dev
 	branch = HEAD
+[submodule "pkident"]
+	path = pkident
+	url = https://github.com/DaikiKumakura/pkident
+[submodule "retiaudit"]
+	path = retiaudit
+	url = https://github.com/DaikiKumakura/retiaudit
+[submodule "rsemflow"]
+	path = rsemflow
+	url = https://github.com/DaikiKumakura/rsemflow
