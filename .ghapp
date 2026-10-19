@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["pkident", "retiaudit", "rsemflow", "universe"]
+  "repositories": ["pkident", "retiaudit", "rsemflow", "daikikumakura.r-universe.dev"]
 }
