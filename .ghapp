@@ -1,0 +1,10 @@
+{
+  "id": 172857763,
+  "created_at": "2026-10-19T00:18:30.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["pkident", "retiaudit", "rsemflow", "universe"]
+}
