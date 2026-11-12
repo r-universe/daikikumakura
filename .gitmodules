@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/daikikumakura/daikikumakura.r-universe.dev
 	branch = HEAD
+[submodule "bulkdeconv"]
+	path = bulkdeconv
+	url = https://github.com/DaikiKumakura/bulkdeconv
 [submodule "pkident"]
 	path = pkident
 	url = https://github.com/DaikiKumakura/pkident
@@ -11,3 +14,6 @@
 [submodule "rsemflow"]
 	path = rsemflow
 	url = https://github.com/DaikiKumakura/rsemflow
+[submodule "rsemverse"]
+	path = rsemverse
+	url = https://github.com/DaikiKumakura/rsemverse
