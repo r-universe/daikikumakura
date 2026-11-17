@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/daikikumakura/daikikumakura.r-universe.dev
 	branch = HEAD
+[submodule "bayespk"]
+	path = bayespk
+	url = https://github.com/DaikiKumakura/bayespk
 [submodule "bulkdeconv"]
 	path = bulkdeconv
 	url = https://github.com/DaikiKumakura/bulkdeconv
