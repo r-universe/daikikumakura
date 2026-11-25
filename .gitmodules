@@ -20,3 +20,6 @@
 [submodule "rsemverse"]
 	path = rsemverse
 	url = https://github.com/DaikiKumakura/rsemverse
+[submodule "superslim"]
+	path = superslim
+	url = https://github.com/DaikiKumakura/superslim-r
