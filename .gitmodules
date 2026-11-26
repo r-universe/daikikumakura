@@ -8,6 +8,9 @@
 [submodule "bulkdeconv"]
 	path = bulkdeconv
 	url = https://github.com/DaikiKumakura/bulkdeconv
+[submodule "geneticPoS"]
+	path = geneticPoS
+	url = https://github.com/DaikiKumakura/geneticPoS
 [submodule "pkident"]
 	path = pkident
 	url = https://github.com/DaikiKumakura/pkident
